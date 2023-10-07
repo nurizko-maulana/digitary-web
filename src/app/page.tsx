@@ -55,7 +55,7 @@ export default function Home() {
           </div>
         </div>
         <div className="flex flex-col items-center justify-center sm:flex-row sm:justify-center">
-          <a href="https://wa.me/6282319145948" target="_blank" className="w-[188.66px] h-[50px] pl-[42px] pr-[42px] py-[15px] mb-2  sm:mr-2 sm:mb-0 bg-blue-700 rounded-full justify-center items-start inline-flex">
+          <a href="https://bit.ly/AdminDigitary" target="_blank" className="w-[188.66px] h-[50px] pl-[42px] pr-[42px] py-[15px] mb-2  sm:mr-2 sm:mb-0 bg-blue-700 rounded-full justify-center items-start inline-flex">
             <div className="text-center text-white text-xl font-medium font-['Poppins'] leading-tight">
               Whatsapp
             </div>
