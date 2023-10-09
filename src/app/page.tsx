@@ -13,23 +13,23 @@ export default function Home() {
             alt={"logo"}
           />
           <div className="flex flex-col justify-center">
-            <div className=" text-white text-2xl font-black font-['Poppins']">
+            <div className=" text-white text-2xl font-black ">
               Digitary
             </div>
-            <div className=" text-white text-[7.17px] font-normal font-['Poppins']">
+            <div className=" text-white text-[7.17px] font-normal ">
               Creative Agency
             </div>
           </div>
         </div>
         <div className="flex ">
-          <div className=" text-white text-[46.26px] font-bold font-['Poppins']">
+          <div className=" text-white text-[46.26px] font-bold ">
             #
           </div>
           <div className="flex flex-col justify-center ">
-            <div className="text-white text-lg leading-[1rem] font-bold font-['Poppins']">
+            <div className="text-white text-lg leading-[1rem] font-bold ">
               Temen
             </div>
-            <div className=" text-white text-xl leading-[1rem] font-bold font-['Poppins']">
+            <div className=" text-white text-xl leading-[1rem] font-bold ">
               Ngonten
             </div>
           </div>
@@ -47,21 +47,21 @@ export default function Home() {
           />
         </div>
           <div className="flex flex-col justify-center px-2">
-          <div className=" text-white text-center mb-8 text-3xl sm:text-5xl font-medium font-['Poppins']">
+          <div className=" text-white text-center mb-8 text-3xl sm:text-5xl font-medium ">
             We are creating something amazing
           </div>
-          <div className=" text-white text-center text-xl sm:text-2xl font-normal font-['Poppins']">
+          <div className=" text-white text-center text-xl sm:text-2xl font-normal ">
             we will launch our website soon.
           </div>
         </div>
         <div className="flex flex-col items-center justify-center sm:flex-row sm:justify-center">
           <a href="https://bit.ly/AdminDigitary" target="_blank" className="w-[188.66px] h-[50px] pl-[42px] pr-[42px] py-[15px] mb-2  sm:mr-2 sm:mb-0 bg-blue-700 rounded-full justify-center items-start inline-flex">
-            <div className="text-center text-white text-xl font-medium font-['Poppins'] leading-tight">
+            <div className="text-center text-white text-xl font-medium  leading-tight">
               Whatsapp
             </div>
           </a>
-          <a href="/Price List Digitary.pdf" target="_blank" className="w-[161.66px] h-[50px] pl-[42px] pr-[42px] py-[15px]  rounded-full border border-blue-700 justify-center items-start inline-flex">
-            <div className="text-center text-blue-700 text-xl font-medium font-['Poppins'] leading-tight">
+          <a href="https://bit.ly/pricelist-digitary" target="_blank" className="w-[161.66px] h-[50px] pl-[42px] pr-[42px] py-[15px]  rounded-full border border-blue-700 justify-center items-start inline-flex">
+            <div className="text-center text-blue-700 text-xl font-medium  leading-tight">
               Pricelist
             </div>
           </a>
