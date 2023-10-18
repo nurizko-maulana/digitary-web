@@ -4,7 +4,7 @@ const nextConfig = {
       return [
           // Redirect /blog/*/ to /blog/*
         {
-              source: '/blog/:path*/',
+              source: '/article/:path*/',
               destination: 'http://3.25.172.84/:path*/',
               permanent: true,
           },
